@@ -23,7 +23,7 @@ const config = {
   newsletter: 'https://fredsiika.substack.com',
   newsletterEmbed: 'https://fredsiika.substack.com/embed',
   userDescription:
-    "Yeah, I like animals better than people sometimes... Especially dogs. Dogs are the best. Every time you come home, they act like they haven't seen you in a year. And the good thing about dogs... is they got different dogs for different people.", // User description to display in the author segment.
+    "Hey, I’m Fred, a full stack software engineer. I write about what I know to help viewers like you. My site has no ads, sponsors, or bullshit. If you enjoy my content, please consider supporting what I do!", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
