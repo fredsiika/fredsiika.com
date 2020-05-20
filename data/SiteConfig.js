@@ -3,9 +3,9 @@ const config = {
   siteTitleShort: "Fred Siika", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Fred Siika", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "https://fredsiika.com", // Domain of your website without pathPrefix.
+  siteUrl: "https://fredsiika.github.io/fredsiika.com", // Domain of your website without pathPrefix.
   repo: 'https://github.com/fredsiika/fredsiika.com',
-  pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
+  pathPrefix: "/fredsiika.com", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "Fred Siika is a full stack software developer specializing in modern JavaScript.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteRssTitle: "Fred Siika RSS feed", // Title of the RSS feed
